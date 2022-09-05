@@ -1595,7 +1595,7 @@ a {
   background: #DBE4DB;
   padding: 104px 30px;
   padding-left: 45px;
-  background-image: url("../img/sweater.png");
+  background-image: url("../img/sweater.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-size: 244px 177px;
@@ -1606,7 +1606,7 @@ a {
   background: #EADDD3;
   padding: 103px 34px;
   padding-left: 42px;
-  background-image: url("../img/sock.png");
+  background-image: url("../img/sock.webp");
   background-position: center;
   background-repeat: no-repeat;
   margin-right: 20px;
@@ -1615,7 +1615,7 @@ a {
 .listcategory li:nth-child(3) {
   background: #F8F2DA;
   padding: 120px 103px;
-  background-image: url("../img/animal.png");
+  background-image: url("../img/animal.webp");
   background-position: center;
   background-repeat: no-repeat;
   margin-right: 20px;
@@ -1624,7 +1624,7 @@ a {
 .listcategory li:nth-child(4) {
   background: #D5D4E1;
   padding: 120px 45px;
-  background-image: url("../img/pursone.png");
+  background-image: url("../img/pursone.webp");
   background-position: center;
   background-repeat: no-repeat;
 }
@@ -1873,7 +1873,7 @@ a {
     background: #DBE4DB;
     padding: 95px 58px;
     padding-left: 65px;
-    background-image: url("../img/sweater.png");
+    background-image: url("../img/sweater.webp");
     background-position: center;
     background-repeat: no-repeat;
     background-size: 244px 177px;
@@ -1883,7 +1883,7 @@ a {
     background: #EADDD3;
     padding: 96px 65px;
     padding-left: 55px;
-    background-image: url("../img/sock.png");
+    background-image: url("../img/sock.webp");
     background-position: center;
     background-repeat: no-repeat;
     margin-right: 20px;
@@ -1891,7 +1891,7 @@ a {
   .listcategory li:nth-child(3) {
     background: #F8F2DA;
     padding: 104px 76px;
-    background-image: url("../img/animal.png");
+    background-image: url("../img/animal.webp");
     background-position: center;
     background-repeat: no-repeat;
     margin-right: 20px;
@@ -1899,7 +1899,7 @@ a {
   .listcategory li:nth-child(4) {
     background: #D5D4E1;
     padding: 104px 76px;
-    background-image: url("../img/pursone.png");
+    background-image: url("../img/pursone.webp");
     background-position: center;
     background-repeat: no-repeat;
   }
@@ -2833,42 +2833,42 @@ div[class*=col] {
 
 .content_1 {
   background: #DBE4DB;
-  background-image: url("../img/sweater.png");
+  background-image: url("../img/sweater.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-size: 100%;
 }
 .content_2 {
   background: #EADDD3;
-  background-image: url("../img/sock.png");
+  background-image: url("../img/sock.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-size: 80%;
 }
 .content_3 {
   background: #F8F2DA;
-  background-image: url("../img/animal.png");
+  background-image: url("../img/animal.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-size: 100%;
 }
 .content_4 {
   background: #D5D4E1;
-  background-image: url("../img/pursone.png");
+  background-image: url("../img/pursone.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-size: 90%;
 }
 .content_5 {
   background: #F3D0DB;
-  background-image: url("../img/flamingo.png");
+  background-image: url("../img/flamingo.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-size: 100%;
 }
 .content_6 {
   background: #E5EAF8;
-  background-image: url("../img/girlsweater.png");
+  background-image: url("../img/girlsweater.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-size: 100%;
